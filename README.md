@@ -5,6 +5,8 @@ Although it's not a big effort to do this, having a central place with examples 
 
 ## Badges
 
+You can log to all these apps with your Github account, no need for new user accounts.
+
 ### Gitter
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pvillega/github-integrations-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -29,18 +31,21 @@ Although it's not a big effort to do this, having a central place with examples 
 * **What:** Automated code review of projects
 * **Notes:** Project settings provides the code for the badge
 
+### Waffle
 
-###
+[![Stories in Ready](https://badge.waffle.io/pvillega/github-integrations-template.svg?label=ready&title=Ready)](http://waffle.io/pvillega/github-integrations-template)
 
-* **URL:**
-* **What:**
-* **Notes:**
+* **URL:** https://waffle.io/
+* **What:** Management of github issues
+* **Notes:** Project Settings > General provides code for the badge
 
-###
+### Coveralls
 
-* **URL:**
-* **What:**
-* **Notes:**
+[![Coverage Status](https://coveralls.io/repos/pvillega/github-integrations-template/badge.svg?branch=master&service=github)](https://coveralls.io/github/pvillega/github-integrations-template?branch=master)
+
+* **URL:** https://coveralls.io/
+* **What:** Code coverage for your app
+* **Notes:** When you setup the project it detects you don't have a badge and shows you the code in an alert at the top of the page
 
 ###
 

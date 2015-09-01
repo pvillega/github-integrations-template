@@ -32,7 +32,6 @@ object build extends Build {
     organization := "com.perevillega",
     version := getProperty("version", "dev.build"),
     scalaVersion := "2.11.7",
-    externalResolvers := Seq(Resolver.defaultLocal),
     scalacOptions ++= commonScalacOptions,
     libraryDependencies ++=Seq(
       logback,
