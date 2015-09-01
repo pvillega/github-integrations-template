@@ -46,6 +46,7 @@ You can log to all these apps with your Github account, no need for new user acc
 * **URL:** https://coveralls.io/
 * **What:** Code coverage for your app
 * **Notes:** When you setup the project it detects you don't have a badge and shows you the code in an alert at the top of the page
+* **Sbt Plugin:** https://github.com/scoverage/sbt-coveralls
 
 ### Bintray
 

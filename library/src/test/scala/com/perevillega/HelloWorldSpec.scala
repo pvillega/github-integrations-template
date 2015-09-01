@@ -8,5 +8,8 @@ class HelloWorldSpec extends FlatSpec with MockitoSugar with Matchers {
   "Hello World Spec" should "never fail" in {
     true should be(right = true)
   }
+  it should "cover the method" in {
+    HelloWorld.toBeCovered() should be ("covered")
+  }
 
 }
