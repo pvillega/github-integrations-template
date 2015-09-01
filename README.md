@@ -47,22 +47,10 @@ You can log to all these apps with your Github account, no need for new user acc
 * **What:** Code coverage for your app
 * **Notes:** When you setup the project it detects you don't have a badge and shows you the code in an alert at the top of the page
 
-###
+### Bintray
 
-* **URL:**
-* **What:**
-* **Notes:**
+[ ![Download](https://api.bintray.com/packages/pvillega/github-integrations-template/github-integrations-template/images/download.svg) ](https://bintray.com/pvillega/github-integrations-template/github-integrations-template/_latestVersion)
 
-###
-
-* **URL:**
-* **What:**
-* **Notes:**
-
-###
-
-* **URL:**
-* **What:**
-* **Notes:**
-
-
+* **URL:** https://bintray.com/
+* **What:** Place to publish your artifacts (jars)
+* **Notes:** Provides the code for the 'latest version' Badge under 'General' tab in project view
