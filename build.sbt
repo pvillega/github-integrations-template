@@ -28,6 +28,8 @@ scalacOptions ++= Seq(
 
 resolvers += "Sonatype OSS Snapshots" at "https://oss.sonatype.org/content/repositories/snapshots"
 
+resolvers += Resolver.url("scoverage-bintray", url("https://dl.bintray.com/sksamuel/sbt-plugins/"))(Resolver.ivyStylePatterns)
+
 libraryDependencies ++= Seq(
   "commons-io"      %  "commons-io"       % "2.4",
   "org.mockito"     %  "mockito-core"     % "1.10.19"   % "test",
